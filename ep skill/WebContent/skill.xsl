@@ -6,11 +6,11 @@
     <h1 align="center">Students Information</h1>
     <table border="1" align="center">
     <tr>
-    <th bgcolor="yellow">Student-No</th>
-    <th bgcolor="yellow">Student-Name</th>
-    <th bgcolor="yellow">Student-Email</th>
-    <th bgcolor="yellow">Student-Marks</th>
-    <th bgcolor="yellow">Student-Class</th>
+    <th bgcolor="pink">Student-No</th>
+    <th bgcolor="pink">Student-Name</th>
+    <th bgcolor="pink">Student-Email</th>
+    <th bgcolor="pink">Student-Marks</th>
+    <th bgcolor="pink">Student-Class</th>
     </tr>    
     <xsl:for-each select="student">
     <tr>
